@@ -23,7 +23,7 @@ The project focuses on identifying associations and differences across demograph
    *Chi-square test to determine if there's a relationship between being married and having a bachelor's degree or higher.*
 
 2. **Difference in sedentary behavior by marital status**  
-   *T-test to compare mean sedentary time between married and non-married individuals.*
+   *T-test to compare the mean sedentary time between married and non-married individuals.*
 
 3. **Effect of age and marital status on systolic blood pressure**  
    *Two-way ANOVA to assess how age and marital status influence systolic blood pressure.*
@@ -32,7 +32,12 @@ The project focuses on identifying associations and differences across demograph
    *Pearson correlation to examine the relationship between weight and sedentary time.*
 
 5. **Creative Analysis**  
-   *A custom question developed using NHANES variables and tested using an appropriate statistical method.*
+   *A custom question developed using NHANES variables and tested using an appropriate statistical method:*
+   
+   **Do individuals with weak or failing kidneys report significantly different average diastolic blood pressure compared to those without kidney issues?**  
+
+   *Independent samples t-test to compare mean diastolic blood pressure between those who report kidney issues and those who do not.*
+
 
 ## Methods:
 
